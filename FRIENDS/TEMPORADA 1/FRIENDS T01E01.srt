@@ -1,4 +1,4 @@
-﻿1
+1
 00:00:49,967 --> 00:00:53,141
 No hay nada que explicar.
 Es sólo un colega del trabajo.
@@ -37,7 +37,7 @@ Es como una de mis citas.
 
 9
 00:01:19,037 --> 00:01:21,586
-{\an8}Estoy en la secundaria,
+Estoy en la secundaria,
 en medio del comedor...
 
 10
@@ -1427,12 +1427,12 @@ Sólo tomé una cuchara.
 
 310
 00:22:10,496 --> 00:22:14,672
-{\an8}- No puedo creer lo que oigo.
+- No puedo creer lo que oigo.
 - No puedo creer lo que oigo
 
 311
 00:22:14,834 --> 00:22:16,302
-{\an8}- ¿Qué? Dije que tenías...
+- ¿Qué? Dije que tenías...
 - ¿Qué? Dije que tenías
 
 312
@@ -1442,31 +1442,32 @@ Sólo tomé una cuchara.
 
 313
 00:22:19,964 --> 00:22:22,308
-{\an8}- ¡Sí!
+- ¡Sí!
 - Sí.
 
 314
 00:22:22,842 --> 00:22:26,096
-{\an8}¿Alguien quiere más café?
+¿Alguien quiere más café?
 
 315
 00:22:26,720 --> 00:22:28,939
-{\an8}¿Lo hiciste tú o lo sirves?
+¿Lo hiciste tú o lo sirves?
 
 316
 00:22:29,139 --> 00:22:32,734
-{\an8}- Yo simplemente lo sirvo.
+- Yo simplemente lo sirvo.
 - Yo quiero una taza.
 
 317
 00:22:32,935 --> 00:22:34,937
-{\an8}Chicos, un nuevo sueño.
+Chicos, un nuevo sueño.
 
 318
 00:22:35,104 --> 00:22:36,401
-{\an8}Estoy en Las Vegas.
+Estoy en Las Vegas.
 
 319
 00:22:36,564 --> 00:22:38,942
-{\an8}Soy Liza Minnelli.
+Soy Liza Minnelli.
+
 
